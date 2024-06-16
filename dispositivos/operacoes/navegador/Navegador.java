@@ -1,4 +1,4 @@
-package operacoes.navegador;
+package dispositivos.operacoes.navegador;
 
 public class Navegador implements NavegadorInternet{
     @Override

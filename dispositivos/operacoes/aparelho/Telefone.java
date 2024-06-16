@@ -1,4 +1,4 @@
-package operacoes.aparelho;
+package dispositivos.operacoes.aparelho;
 
 public class Telefone implements AparelhoTelefonico {
     @Override

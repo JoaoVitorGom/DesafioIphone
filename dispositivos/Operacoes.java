@@ -1,8 +1,8 @@
 package dispositivos;
 
-import operacoes.Reprodutor.ReprodutorMusical;
-import operacoes.aparelho.AparelhoTelefonico;
-import operacoes.navegador.NavegadorInternet;
+import dispositivos.operacoes.Reprodutor.ReprodutorMusical;
+import dispositivos.operacoes.aparelho.AparelhoTelefonico;
+import dispositivos.operacoes.navegador.NavegadorInternet;
 
 public class Operacoes implements AparelhoTelefonico, NavegadorInternet, ReprodutorMusical {
 

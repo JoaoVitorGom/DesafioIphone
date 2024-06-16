@@ -1,4 +1,4 @@
-package operacoes.Reprodutor;
+package dispositivos.operacoes.Reprodutor;
 
 public class Reprodutor implements ReprodutorMusical {
 
